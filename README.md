@@ -170,7 +170,7 @@ So the `slope_at` function takes in our dataset, and returns the slope of the co
 
 ![](./tangent-lines.png)
 
-As you can see, it seems pretty accurate.  When the curve is steeper and downwards at $m = 6$, the slope is around -290,000.  And at $m = 1.3$ with our cost curve pointing upwards yet flatter, our slope is around 120,000.
+As you can see, it seems pretty accurate.  When the curve is steeper and downwards at $m = 0.6$, the slope is around -290,000.  And at $m = 1.3$ with our cost curve pointing upwards yet flatter, our slope is around 120,000.
 
 ### Moving towards gradient descent
 
